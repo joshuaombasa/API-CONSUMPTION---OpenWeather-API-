@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid black;
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.city-form {
+    padding: 20px;
+}
